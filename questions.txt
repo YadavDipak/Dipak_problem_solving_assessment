@@ -1,0 +1,50 @@
+1. What is 12.5% of 640?
+
+2. A car travels 150 km in 2.5 hours. What is its speed?
+
+3. What is the remainder when 127 is divided by 9?
+
+4. If 1 + 2 + 3 + … + n = 276, what is the value of n?
+
+5. If P:Q = 5:6 and Q:R = 3:4, what is P:R?
+
+6. A product costs ₹120 after a 25% discount. What was the original price?
+
+7. X and Y together can complete a job in 18 days. X alone can do it in 30 days. In how many days can Y do it alone?
+
+8. Find the smallest number that is divisible by 6, 8, and 12.
+
+9. A quantity is decreased by 20% and then increased by 25%. What is the net percentage change?
+
+10. How many multiples of 9 are there between 100 and 300?
+
+11. A number is decreased by 30% and then increased by 50%. What is the overall change?
+
+12. If 45 is 60% of a number, what is the number?
+
+13. A man spends 2/5 of his income on rent, 1/5 on groceries, and saves the rest ₹18,000. What is his total income?
+
+14. A man spends 3/7 of his salary and saves ₹24,000. What is his total salary?
+
+15. B's salary is 40% less than A's. If A earns ₹70,000, how much does B earn?
+
+16. If 9 workers can complete a task in 24 days, how many days will 6 workers take?
+
+17. What is the sum of first 15 even numbers?
+
+18. Find the average of the first 20 even natural numbers.
+
+19. 65% of students passed in Science, and 80% passed in English. What is the minimum percentage who passed both subjects?
+
+20. What is 888 × 101?
+
+21. A train 180 m long passes a platform 220 m long in 20 seconds. What is the speed of the train in km/h?
+
+22. Is 997 a prime number?
+
+23. What is the unit digit of 3^73?
+
+24. Find the missing number in the sequence: 5, 10, 20, 40, ___, 160
+
+25. A mixture contains acid and water in the ratio 3:2. If 10 litres of water is added, the new ratio becomes 3:4. What was the original volume of the mixture?
+problem-solving-questions.txt
